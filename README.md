@@ -26,8 +26,8 @@ To utilize the app, simply download and install it on your Flutter-compatible de
 Contributions to further enhance the functionality and user experience of the app are welcome. Please fork the repository, make your improvements, and submit a pull request for review.
 
 ### Contact:
-For any inquiries or support regarding the app, please feel free to reach out to Biswaya Mazumder at [email@example.com](mailto:biswayan.mazumder2020@vitbhopal.ac.in).
+For any inquiries or support regarding the app, please feel free to reach out to Biswaya Mazumder at [biswayan.mazumder2020@vitbhopal.ac.in](mailto:biswayan.mazumder2020@vitbhopal.ac.in).
 
 ---
 
-This readme provides an overview of Biswaya Mazumder's Flutter app, highlighting its features, usage instructions, and avenues for contributions and support.
+This readme provides an overview of Biswayan Mazumder's Flutter app, highlighting its features, usage instructions, and avenues for contributions and support.
