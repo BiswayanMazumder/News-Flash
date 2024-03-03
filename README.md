@@ -2,7 +2,7 @@
 
 **Biswayan Mazumder's Flutter App Readme**
 
----
+--
 
 ### About the App:
 This Flutter application, developed by Biswaya Mazumder, leverages the Yahoo API to provide users with dynamic and real-time data. The app is meticulously crafted to offer an intuitive and seamless experience, combining functionality with aesthetic appeal.
